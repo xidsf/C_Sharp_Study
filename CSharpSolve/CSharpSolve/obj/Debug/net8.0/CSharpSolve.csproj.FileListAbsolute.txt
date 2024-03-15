@@ -1,0 +1,14 @@
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\bin\Debug\net8.0\CSharpSolve.exe
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\bin\Debug\net8.0\CSharpSolve.deps.json
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\bin\Debug\net8.0\CSharpSolve.runtimeconfig.json
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\bin\Debug\net8.0\CSharpSolve.dll
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\bin\Debug\net8.0\CSharpSolve.pdb
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\CSharpSolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\CSharpSolve.AssemblyInfoInputs.cache
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\CSharpSolve.AssemblyInfo.cs
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\CSharpSolve.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\CSharpSolve.dll
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\refint\CSharpSolve.dll
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\CSharpSolve.pdb
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\CSharpSolve.genruntimeconfig.cache
+C:\Users\msi\Desktop\VS\C_Sharp\CSharpSolve\CSharpSolve\obj\Debug\net8.0\ref\CSharpSolve.dll

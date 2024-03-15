@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Desktop\\VS\\C_Sharp\\CSharpSolve\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0DA4DE-1B2C-41C7-98CB-A40858998A5C}|CSharpSolve\\CSharpSolve.csproj|c:\\users\\msi\\desktop\\vs\\c_sharp\\csharpsolve\\csharpsolve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0DA4DE-1B2C-41C7-98CB-A40858998A5C}|CSharpSolve\\CSharpSolve.csproj|solutionrelative:csharpsolve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\VS\\C_Sharp\\CSharpSolve\\CSharpSolve\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpSolve\\Program.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\VS\\C_Sharp\\CSharpSolve\\CSharpSolve\\Program.cs",
+              "RelativeToolTip": "CSharpSolve\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:56:14.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
